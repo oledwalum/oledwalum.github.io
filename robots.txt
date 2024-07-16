@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oledwalum.github.io/sitemap
+Sitemap: https://oledwalum.github.io/app/sitemap
+Sitemap: https://oledwalum.github.io/assets/sitemap
+Sitemap: https://oledwalum.github.io/css/sitemap
+Sitemap: https://oledwalum.github.io/includes/sitemap
+Sitemap: https://oledwalum.github.io/item/sitemap
+Sitemap: https://oledwalum.github.io/src/sitemap
